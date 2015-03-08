@@ -636,12 +636,12 @@ pre code {
 .syllabus {
   font-size:24px;
   width: 600px;
-  text-align: justify;
+  text-align: left;
 }
 
 .syllabus ol {
   list-style-type:decimal;
-  margin-left:20%;
+  margin-left:10%;
 }
 
 .img-circle {
