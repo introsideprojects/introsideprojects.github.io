@@ -288,6 +288,13 @@ pre code {
   margin-bottom: 10px;
   color: #FFF;
 }
+
+.features .feature-list li a {
+    margin-bottom: 10px;
+    color: #FFF;
+}
+
+
 .features .feature-list li .fa {
   margin-right: 5px;
   color: #fff;
